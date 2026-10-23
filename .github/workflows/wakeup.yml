@@ -40,7 +40,6 @@ jobs:
       - name: 取回仓库
         uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
 
       - name: 装 Python
