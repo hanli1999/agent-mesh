@@ -1,5 +1,12 @@
 # Agent Mesh
 
+> **中文速览**：让两台设备上的 Claude Code 互相指挥 —— 主脑做决策与验收，工脑做重计算与批量处理，靠 GitHub 仓库中转消息，不用网络直连。
+>
+> **适合**：想用多台机器跑 agent · 要把重计算甩给另一台设备 · 需要主脑工脑分工 · 做 agent 之间的任务协议
+>
+> **关键词**：多 Agent 协作 · Claude Code 互联 · 主脑工脑 · Agent 任务协议 · 跨设备协作 · GitHub 中转 · 工脑守护进程 · agent 分工 · AI 团队 · 任务委派
+
+
 > 多 AI Agent 协作网络 · 让 Claude Code 实例互通
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
